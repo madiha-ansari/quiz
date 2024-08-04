@@ -85,4 +85,4 @@ switch(quiz.question_2){
                     default:
                     console.log("5. Incorrect!")}
                 console.log(`Score: ${score}`);
-                
+                // end

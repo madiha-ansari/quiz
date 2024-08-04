@@ -73,3 +73,4 @@ switch (quiz.question_5) {
         console.log("5. Incorrect!");
 }
 console.log(`Score: ${score}`);
+// end
